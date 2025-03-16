@@ -8,15 +8,15 @@ A feladat egy pékség működéséhez kapcsolódik. A data.json fájlban talál
 
 1. Dolgozd fel a csatolt data.json fájlt és mentsd el egy adatbázisba
 2. Számold ki az utolsó hét árbevételét
-   php artisan calculate:revenue
+   - php artisan calculate:revenue
 3. Külön listában jelenítsd meg a gluténmentes, a laktózmentes és a glutén és laktózmentes termékek nevét és árát
-   php artisan list:free-products
+   - php artisan list:free-products
 4. Számold ki az utolsó hét profitját (bevétel-alapanyag_költség)
-   php artisan calculate:profit
+   - php artisan calculate:profit
 5. Számold ki hogy a különböző termékekből külön-külön mennyit lehet maximum legyártani a jelenlegi készletből
-   php artisan calculate:max-production
+   - php artisan calculate:max-production
 6. Számold ki a következő rendelés költségét és profitját
-   php artisan calculate:order-profit
+   - php artisan calculate:order-profit
 
 Francia krémes 300 db
 Rákóczi túrós 200 db
