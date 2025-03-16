@@ -1,6 +1,7 @@
 # test_task_bakery
 
-A feladatot commandok létrehozásával oldottam meg, a feladat leírások alatt találhatóak a megoldást tartalmazó commandok.
+A feladatot Laravel keretrendszerben, MySQL adatbázist használva, commandok létrehozásával oldottam meg, a feladat leírások alatt találhatóak a megoldást tartalmazó commandok.
+Az adatbázis feltöltéshez seedereket használtam amik a database/seeders mappában találhatóak, a commandok pedig az app/Console/Commands mappa alatt.
 
 FELADAT
 
